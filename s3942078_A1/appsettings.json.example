@@ -1,5 +1,0 @@
-{
-  "ConnectionStrings": {
-    "Default": "Server=tcp:wdtbank-srv-oscar-eastaustralia.database.windows.net,1433;Database=wdtbank-db;User ID=appuser;Password=REPLACE_ME;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
-  }
-}
